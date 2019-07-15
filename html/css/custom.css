@@ -1,0 +1,23 @@
+.page-sub-title { margin-top: 20px; font-size: 30px; color: #194C42;}
+.page-sub-heading { position: relative; padding-bottom: 15px; font-size: 21px; font-weight: 600;}
+.page-sub-heading:after { position: absolute; bottom: -1px; border-top: 3px solid #e8e8e8; width: 2em; display: block; content: "";}
+
+.widget_categories h4 { margin: 0; padding: 7px 0; font-size: 16px; color: #194C42;}
+.widget_categories h4:before { float: left; display: block; content: ""; margin-top: 7px; margin-right: 10px; width: 10px; height: 10px; border: 2px solid #194C42; border-radius: 100%; vertical-align: middle;}
+.widget_categories h4 a { color: #194C42; font-weight: 700;}
+.widget_categories ul li { margin: 0; padding: 0; border-bottom: none;}
+.widget_categories ul li a { display: block; padding: 3px 0 3px 20px;}
+.widget_categories ul li a:before { float: left; display: block; content: ""; margin-top: 9px; margin-right: 10px; width: 6px; height: 6px; background-color: #999; border-radius: 100%; vertical-align: middle;}
+.widget_categories ul li a:hover { background-color:#E8e8e8; color: #194C42;}
+.widget_categories ul li a:hover:before { background-color: #194C42;}
+
+.nav-tabs { float: none; background-color: #e8e8e8;}
+.nav-tabs > li { border-bottom: none;}
+.nav-tabs > li > a { background-color: #e8e8e8; font-size: 16px; border-right-color: #fff; border-bottom: none;}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus { background-color: #194C42; color: #fff; border-bottom: none;}
+
+
+.contact-office ul, .contact-office li { margin: 0; padding: 0; list-style: none;}
+.contact-office li {margin-bottom: 15px;}
+.contact-office a { text-decoration: underlined;}
+#contactform code { background-color: transparent;}
