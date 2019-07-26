@@ -46,6 +46,4 @@ if(strpos($_SERVER['HTTP_HOST'],'localhost')!==false) {
 	define('DB_DATABASE', 'b15b0335');
  
 }
-
-exit;
 ?>
