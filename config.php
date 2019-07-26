@@ -47,4 +47,5 @@ if(strpos($_SERVER['HTTP_HOST'],'localhost')!==false) {
  
 }
 
+exit;
 ?>
